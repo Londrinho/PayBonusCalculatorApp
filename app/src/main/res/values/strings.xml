@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pay Bonus Calculator App</string>
+    <string name="what_is_your_monthly_salary_after_tax">What is your monthly salary after tax?</string>
+    <string name="bonus_amount">Bonus Amount: %s</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="met_set_objectives">Met Set Objectives (5%)</string>
+    <string name="met_set_objectives_and_worked_very_well">Met Set Objectives and Worked Very Well (10%)</string>
+    <string name="met_set_objectives_and_was_outstanding">Met Set Objectives and Was Outstanding  (15%)</string>
+</resources>
